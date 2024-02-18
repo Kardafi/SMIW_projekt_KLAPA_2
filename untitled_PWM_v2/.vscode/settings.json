@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "zephyr.h": "c",
+        "bluetooth.h": "c",
+        "uuid.h": "c",
+        "gatt.h": "c",
+        "hci.h": "c",
+        "dk_buttons_and_leds.h": "c"
+    }
+}
